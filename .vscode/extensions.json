@@ -1,0 +1,14 @@
+{
+	"recommendations": [
+		"jasonlhy.hungry-delete",
+		"pkief.material-icon-theme",
+		"npxms.hide-gitignored",
+		"ms-vscode.cpptools",
+		"mikestead.dotenv",
+		"juanmnl.vscode-theme-1984",
+		"daylerees.rainglow",
+		"equinusocio.vsc-material-theme",
+		"mhutchie.git-graph",
+		"ritwickdey.liveserver"
+	]
+}
